@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\Rock,PaperSicAndrew\Rock,PaperSicAndrew\obj\Debug\Rock,PaperSicAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\Rock,PaperSicAndrew\Rock,PaperSicAndrew\obj\Debug\Rock_PaperSicAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\Rock,PaperSicAndrew\Rock,PaperSicAndrew\obj\Debug\Rock_PaperSicAndrew.frmRps.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\Rock,PaperSicAndrew\Rock,PaperSicAndrew\obj\Debug\Rock,PaperSicAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\Rock,PaperSicAndrew\Rock,PaperSicAndrew\obj\Debug\Rock,PaperSicAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\Rock,PaperSicAndrew\Rock,PaperSicAndrew\bin\Debug\Rock,PaperSicAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\Rock,PaperSicAndrew\Rock,PaperSicAndrew\bin\Debug\Rock,PaperSicAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\Rock,PaperSicAndrew\Rock,PaperSicAndrew\bin\Debug\Rock,PaperSicAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\Rock,PaperSicAndrew\Rock,PaperSicAndrew\obj\Debug\Rock,PaperSicAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\Rock,PaperSicAndrew\Rock,PaperSicAndrew\obj\Debug\Rock,PaperSicAndrew.pdb
