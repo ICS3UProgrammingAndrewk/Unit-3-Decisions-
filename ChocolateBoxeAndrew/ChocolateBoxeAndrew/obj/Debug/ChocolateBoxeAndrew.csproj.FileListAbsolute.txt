@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ChocolateBoxeAndrew\ChocolateBoxeAndrew\obj\Debug\ChocolateBoxeAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ChocolateBoxeAndrew\ChocolateBoxeAndrew\obj\Debug\ChocolateBoxeAndrew.frmChocolateBox.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ChocolateBoxeAndrew\ChocolateBoxeAndrew\obj\Debug\ChocolateBoxeAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ChocolateBoxeAndrew\ChocolateBoxeAndrew\obj\Debug\ChocolateBoxeAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ChocolateBoxeAndrew\ChocolateBoxeAndrew\obj\Debug\ChocolateBoxeAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ChocolateBoxeAndrew\ChocolateBoxeAndrew\bin\Debug\ChocolateBoxeAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ChocolateBoxeAndrew\ChocolateBoxeAndrew\bin\Debug\ChocolateBoxeAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ChocolateBoxeAndrew\ChocolateBoxeAndrew\bin\Debug\ChocolateBoxeAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ChocolateBoxeAndrew\ChocolateBoxeAndrew\obj\Debug\ChocolateBoxeAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ChocolateBoxeAndrew\ChocolateBoxeAndrew\obj\Debug\ChocolateBoxeAndrew.pdb
