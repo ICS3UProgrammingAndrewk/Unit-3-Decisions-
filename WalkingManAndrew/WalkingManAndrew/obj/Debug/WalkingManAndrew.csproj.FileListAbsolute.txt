@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\WalkingManAndrew\WalkingManAndrew\bin\Debug\WalkingManAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\WalkingManAndrew\WalkingManAndrew\bin\Debug\WalkingManAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\WalkingManAndrew\WalkingManAndrew\bin\Debug\WalkingManAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\WalkingManAndrew\WalkingManAndrew\obj\Debug\WalkingManAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\WalkingManAndrew\WalkingManAndrew\obj\Debug\WalkingManAndrew.frmWalkingMan.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\WalkingManAndrew\WalkingManAndrew\obj\Debug\WalkingManAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\WalkingManAndrew\WalkingManAndrew\obj\Debug\WalkingManAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\WalkingManAndrew\WalkingManAndrew\obj\Debug\WalkingManAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\WalkingManAndrew\WalkingManAndrew\obj\Debug\WalkingManAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\WalkingManAndrew\WalkingManAndrew\obj\Debug\WalkingManAndrew.pdb
