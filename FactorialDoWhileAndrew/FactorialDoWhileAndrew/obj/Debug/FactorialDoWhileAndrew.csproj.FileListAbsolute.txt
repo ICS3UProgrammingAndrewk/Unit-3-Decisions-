@@ -1,0 +1,5 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\FactorialDoWhileAndrew\FactorialDoWhileAndrew\obj\Debug\FactorialDoWhileAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\FactorialDoWhileAndrew\FactorialDoWhileAndrew\obj\Debug\FactorialDoWhileAndrew.frmFactorialDoWhle.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\FactorialDoWhileAndrew\FactorialDoWhileAndrew\obj\Debug\FactorialDoWhileAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\FactorialDoWhileAndrew\FactorialDoWhileAndrew\obj\Debug\FactorialDoWhileAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\FactorialDoWhileAndrew\FactorialDoWhileAndrew\obj\Debug\FactorialDoWhileAndrew.csproj.CoreCompileInputs.cache
