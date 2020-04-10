@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\PerfectsquareAndrew\PerfectsquareAndrew\bin\Debug\PerfectsquareAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\PerfectsquareAndrew\PerfectsquareAndrew\bin\Debug\PerfectsquareAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\PerfectsquareAndrew\PerfectsquareAndrew\bin\Debug\PerfectsquareAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\PerfectsquareAndrew\PerfectsquareAndrew\obj\Debug\PerfectsquareAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\PerfectsquareAndrew\PerfectsquareAndrew\obj\Debug\PerfectsquareAndrew.frmPerfectSquares.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\PerfectsquareAndrew\PerfectsquareAndrew\obj\Debug\PerfectsquareAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\PerfectsquareAndrew\PerfectsquareAndrew\obj\Debug\PerfectsquareAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\PerfectsquareAndrew\PerfectsquareAndrew\obj\Debug\PerfectsquareAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\PerfectsquareAndrew\PerfectsquareAndrew\obj\Debug\PerfectsquareAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\PerfectsquareAndrew\PerfectsquareAndrew\obj\Debug\PerfectsquareAndrew.pdb
