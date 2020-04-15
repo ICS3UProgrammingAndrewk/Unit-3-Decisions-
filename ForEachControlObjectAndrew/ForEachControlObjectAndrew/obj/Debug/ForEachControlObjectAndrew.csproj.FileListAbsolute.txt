@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ForEachControlObjectAndrew\ForEachControlObjectAndrew\bin\Debug\ForEachControlObjectAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ForEachControlObjectAndrew\ForEachControlObjectAndrew\bin\Debug\ForEachControlObjectAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ForEachControlObjectAndrew\ForEachControlObjectAndrew\bin\Debug\ForEachControlObjectAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ForEachControlObjectAndrew\ForEachControlObjectAndrew\obj\Debug\ForEachControlObjectAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ForEachControlObjectAndrew\ForEachControlObjectAndrew\obj\Debug\ForEachControlObjectAndrew.frmForEachObject.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ForEachControlObjectAndrew\ForEachControlObjectAndrew\obj\Debug\ForEachControlObjectAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ForEachControlObjectAndrew\ForEachControlObjectAndrew\obj\Debug\ForEachControlObjectAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ForEachControlObjectAndrew\ForEachControlObjectAndrew\obj\Debug\ForEachControlObjectAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ForEachControlObjectAndrew\ForEachControlObjectAndrew\obj\Debug\ForEachControlObjectAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\ForEachControlObjectAndrew\ForEachControlObjectAndrew\obj\Debug\ForEachControlObjectAndrew.pdb
