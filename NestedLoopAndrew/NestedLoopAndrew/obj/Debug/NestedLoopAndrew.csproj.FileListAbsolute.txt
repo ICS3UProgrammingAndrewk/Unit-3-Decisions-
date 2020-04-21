@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\NestedLoopAndrew\NestedLoopAndrew\bin\Debug\NestedLoopAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\NestedLoopAndrew\NestedLoopAndrew\bin\Debug\NestedLoopAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\NestedLoopAndrew\NestedLoopAndrew\bin\Debug\NestedLoopAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\NestedLoopAndrew\NestedLoopAndrew\obj\Debug\NestedLoopAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\NestedLoopAndrew\NestedLoopAndrew\obj\Debug\NestedLoopAndrew.frmNestedLoops.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\NestedLoopAndrew\NestedLoopAndrew\obj\Debug\NestedLoopAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\NestedLoopAndrew\NestedLoopAndrew\obj\Debug\NestedLoopAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\NestedLoopAndrew\NestedLoopAndrew\obj\Debug\NestedLoopAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\NestedLoopAndrew\NestedLoopAndrew\obj\Debug\NestedLoopAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\NestedLoopAndrew\NestedLoopAndrew\obj\Debug\NestedLoopAndrew.pdb
