@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\RunningAverageAndrew\RunningAverageAndrew\bin\Debug\RunningAverageAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\RunningAverageAndrew\RunningAverageAndrew\bin\Debug\RunningAverageAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\RunningAverageAndrew\RunningAverageAndrew\bin\Debug\RunningAverageAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\RunningAverageAndrew\RunningAverageAndrew\obj\Debug\RunningAverageAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\RunningAverageAndrew\RunningAverageAndrew\obj\Debug\RunningAverageAndrew.frmRunningAverage.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\RunningAverageAndrew\RunningAverageAndrew\obj\Debug\RunningAverageAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\RunningAverageAndrew\RunningAverageAndrew\obj\Debug\RunningAverageAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\RunningAverageAndrew\RunningAverageAndrew\obj\Debug\RunningAverageAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\RunningAverageAndrew\RunningAverageAndrew\obj\Debug\RunningAverageAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-3-Decisions-\RunningAverageAndrew\RunningAverageAndrew\obj\Debug\RunningAverageAndrew.pdb
